@@ -23,4 +23,8 @@
 	- Prisma <br/>
 	- Trying to cope with very basic machine learning
 </b>
+
+<br/>
+
+
 [![Atomic's github activity graph](https://activity-graph.herokuapp.com/graph?username=Atom1cByte&bg_color=2d2d2d&color=e54949&line=00fff6&point=edffe5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
