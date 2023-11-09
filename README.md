@@ -5,7 +5,7 @@
 	<br/>
 	<a href="https://blog.atomicbyte.tk"><img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
   <hr/>
-  <h4>Hello there! I'm AtomicByte (idk, like... terabyte but like... alot bigger ig?). I'm an Indian python developer that loves to collaborate (even though no one usually wants to 😔). My favourite IDE is VS Code (just like everyone else lmao). Sadly, I have just over 1 year of python experience but >5 years of experience with stuff like HTML, CSS, and Javascript. Another thing that you might like is that I love the technical side of Minecraft!</h4>
+  <h4>Hello there! I'm AtomicByte (idk, like... terabyte but like... alot bigger ig?). I'm a developer that loves to collaborate (even though no one usually wants to 😔). My favourite IDE is VS Code (just like everyone else lmao). I have 2-3 years of python experience but >5 years of experience with stuff like HTML, CSS, and Javascript. Another thing that you might like is that I love the technical side of Minecraft!</h4>
 	<h3>A few things I know - </h3>
 	</div>
 	- Django, Flask and FastAPI <br/>
