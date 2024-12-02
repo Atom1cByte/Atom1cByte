@@ -25,11 +25,3 @@
 <hr/>
 <br/>
 <br/>
-
-[![Atomic's Stats](https://github-readme-stats.vercel.app/api?username=Atom1cByte&show_icons=true&theme=radical)](https://blog.atomicbyte.tk/)
-
-[![Atomic's Streak](https://github-readme-streak-stats.herokuapp.com?user=Atom1cByte&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://blog.atomicbyte.tk/)
-
-[![Atomic's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atom1cByte&layout=compact&theme=radical)](https://blog.atomicbyte.tk/)
-
-[![Atomic's github activity graph](https://activity-graph.herokuapp.com/graph?username=Atom1cByte&bg_color=2d2d2d&color=e54949&line=00fff6&point=edffe5&area=true&hide_border=true)](https://blog.atomicbyte.tk/)
