@@ -5,7 +5,7 @@
 	<br/>
 	<a href="https://blog.atomicbyte.tk"><img src="https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
   <hr/>
-  <h4>Hello there! I'm AtomicByte. Yep. That's right. I'm safely shared between threads, *badum tsk*. I'm a developer that loves to collaborate. My favourite IDE is vim (just like everyone else lmao). I've been coding since I was 7 (do the maths yourself I'm tired of updating this every year). Another thing that you might like to know is that I goof around in block game!</h4>
+  <p>Hello there! I'm AtomicByte. Yep. That's right. I'm safely shared between threads, *badum tsk*. I'm a developer that loves to collaborate. My favourite IDE is vim (just like everyone else lmao). I've been coding since I was 7 (do the maths yourself I'm tired of updating this every year). Another thing that you might like to know is that I goof around in block game!</p>
 	<h3>A few things I know - </h3>
 	</div>
 	- Django, Flask and FastAPI <br/>
