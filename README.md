@@ -26,4 +26,4 @@
 <br/>
 <br/>
 
-[![Atomic's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atom1cByte&layout=compact&theme=radical)](https://blog.atomicbyte.tk/)
+<center>[![Atomic's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atom1cByte&layout=compact&theme=radical)](https://blog.atomicbyte.tk/)</center>
