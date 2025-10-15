@@ -16,7 +16,7 @@
 
 <hr/>
 <div align="center">
-	<h3>You can contact me at <a href='https://discord.com/users/704912145443323934'>atomicbyte#0</a>. I'm currently availible for collaborating!</h3>
+	<h3>You can contact me at <a href='https://discord.com/users/704912145443323934'>atomicbyte#0</a>.</h3>
 	<hr/>
 	<h3>Learning - </h3>
 </div>
